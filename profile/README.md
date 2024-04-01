@@ -1,4 +1,4 @@
-# World Fuel Services
-World Fuel Services solves energy challenges for customers around the world. 
+# World Kinect
+[World Kinect](https://www.world-kinect.com/) [WKC (NYSE)] is a global energy management company offering fulfillment and related services to more than 150,000 customers across the aviation, marine, and ground-based transportation industries, worldwide. 
 
-Every day, we provide a powerful integrated platform to optimize energy, logistics, and related services for aviation, marine, commercial, industrial, and transportation customers so they can focus on what they do best.
+We also supply natural gas and power in the United States and Europe along with a growing suite of other sustainability-related products and services.
